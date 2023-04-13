@@ -5,7 +5,7 @@
       ******************************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID. "USERINPUT".
-       AUTHOR. LOBSANG BARRIGA.
+       AUTHOR. K4RUK4M1.
 
        ENVIRONMENT DIVISION.
        
